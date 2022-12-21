@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\bin\Debug\perfect number 1.exe.config
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\bin\Debug\perfect number 1.exe
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\bin\Debug\perfect number 1.pdb
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\obj\Debug\perfect number 1.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\obj\Debug\perfect number 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\obj\Debug\perfect number 1.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\obj\Debug\perfect number 1.exe
+C:\Users\Mahmoud\Downloads\perfect number 1\perfect number 1\obj\Debug\perfect number 1.pdb
